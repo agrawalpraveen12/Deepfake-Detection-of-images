@@ -1,7 +1,7 @@
 
-# 🕵️‍♂️ Deepfake Detection using ResNet-18
+#  Deepfake Detection using ResNet-18
 
-## 🧠 Overview
+##  Overview
 This project is an **ongoing** deepfake detection system built using a fine-tuned **ResNet-18** architecture. The goal is to classify facial images as **Real** or **Fake**, helping combat misinformation with deep learning.
 
 ## 🎯 Problem Statement
@@ -54,8 +54,3 @@ This project provides a **robust and scalable** solution utilizing **ResNet-18**
 - Python 3.x
 - GPU (optional but recommended for training)
 
-### 📦 Installation
-```bash
-git clone https://github.com/your_username/your_repository_name.git
-cd your_repository_name
-pip install -r requirements.txt
